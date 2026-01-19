@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Excursion Landing Page
 
 This project is a simple landing page for the Excursion mobile app, built with HTML and CSS. It is designed for deployment on GitHub Pages.
@@ -15,3 +16,6 @@ This project is a simple landing page for the Excursion mobile app, built with H
 
 ## Deployment
 Push to your GitHub repository and enable GitHub Pages in the repository settings. Your site will be available at `https://<username>.github.io/excursion/`.
+=======
+# excursion
+>>>>>>> 1eedba53f41f6eb14039d329b2ae8278911512e6
