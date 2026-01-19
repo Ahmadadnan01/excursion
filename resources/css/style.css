@@ -1,0 +1,65 @@
+/* Excursion Landing Page Styles */
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f5f5f5;
+  color: #222;
+}
+header {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 2rem 1rem 1rem 1rem;
+}
+header h1 {
+  margin: 0 0 1rem 0;
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+}
+.download-link {
+  display: inline-block;
+  background: #fff;
+  color: #222;
+  padding: 0.75rem 2rem;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 1rem;
+  transition: background 0.2s, color 0.2s;
+}
+.download-link:hover {
+  background: #e0e0e0;
+}
+main {
+  max-width: 700px;
+  margin: 2rem auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  padding: 2rem;
+}
+.video-section {
+  text-align: center;
+}
+.video-section video {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+}
+.icon-section {
+  text-align: center;
+  margin-top: 2.5rem;
+}
+.icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 1rem;
+}
+footer {
+  text-align: center;
+  color: #888;
+  padding: 1.5rem 0 1rem 0;
+  font-size: 1rem;
+}
